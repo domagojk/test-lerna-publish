@@ -1,3 +1,3 @@
 export function test() {
-  return 'hello update';
+  return 'hello update2';
 }
